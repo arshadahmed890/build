@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4dd7748.css",
+    "main.js": "/static/js/main.f0df6f33.js",
+    "static/js/453.785134cd.chunk.js": "/static/js/453.785134cd.chunk.js",
+    "static/media/banner_image.jpg": "/static/media/banner_image.83d84ccdc76b467fff6a.jpg",
+    "static/media/dr_Jenny.jpg": "/static/media/dr_Jenny.f416f9bd0090ec966255.jpg",
+    "static/media/back_3.jpg": "/static/media/back_3.73b4592e25e830049efd.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/pet_shop.png": "/static/media/pet_shop.23ffc553636926b221c9.png",
+    "static/media/pet_care.png": "/static/media/pet_care.0a81d72ce60eab2e2c75.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/pet_help.png": "/static/media/pet_help.2dec89449e7521adbab7.png",
+    "static/media/link.jpg": "/static/media/link.0b7dcf30074d3d065910.jpg",
+    "static/media/lap.jpg": "/static/media/lap.15ca7950d01f6dbcb461.jpg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/git.jpg": "/static/media/git.c7407f442f70896ab6be.jpg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/index.html",
+    "main.d4dd7748.css.map": "/static/css/main.d4dd7748.css.map",
+    "main.f0df6f33.js.map": "/static/js/main.f0df6f33.js.map",
+    "453.785134cd.chunk.js.map": "/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4dd7748.css",
+    "static/js/main.f0df6f33.js"
+  ]
+}
